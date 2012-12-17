@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[am0c.say]]></title>
+  <link href="http://blog.am0c.org/atom.xml" rel="self"/>
+  <link href="http://blog.am0c.org/"/>
+  <updated>2012-12-18T00:55:54+09:00</updated>
+  <id>http://blog.am0c.org/</id>
+  <author>
+    <name><![CDATA[Hojung Youn]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[me born]]></title>
+    <link href="http://blog.am0c.org/blog/2012/12/18/me-born/"/>
+    <updated>2012-12-18T00:49:00+09:00</updated>
+    <id>http://blog.am0c.org/blog/2012/12/18/me-born</id>
+    <content type="html"><![CDATA[<p><a href="http://octopress.org/">Octopress</a>를 쓰기로 했습니다.
+텀블러는 댓글과 신택스 위젯을 넣기 귀찮구요.
+이걸 쓰면 원하는데로 확장도 할 수 있으니까요.
+루비를 쓴다는게 문제이긴 하지만, 이 참에 배우는 것도 좋을 것 같습니다.</p>
+]]></content>
+  </entry>
+  
+</feed>
